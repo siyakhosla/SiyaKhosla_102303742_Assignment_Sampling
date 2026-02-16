@@ -124,5 +124,7 @@ Overall, no single sampling technique was optimal for all models. Model performa
 
 ---
 
-## Project Structure
+## Author
+Name: Siya Khosla
+Roll number: 102303742
 
