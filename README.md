@@ -125,6 +125,6 @@ Overall, no single sampling technique was optimal for all models. Model performa
 ---
 
 ## Author
-Name: Siya Khosla
+Name: Siya Khosla     
 Roll number: 102303742
 
