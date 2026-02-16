@@ -1,0 +1,6 @@
+,Best Sampling Technique,Accuracy
+M1_Logistic,Sampling3,94.78
+M2_DecisionTree,Sampling2,99.56
+M3_RandomForest,Sampling1,100.0
+M4_KNN,Sampling1,96.51
+M5_SVM,Sampling5,74.67
